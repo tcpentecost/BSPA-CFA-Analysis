@@ -27,4 +27,4 @@ summary(BSPAfit, fit.measures = TRUE)
 
 ## Plotting
 library(semPlot)
-semPaths(BSPAfit, what="est", layout="circle", title=T, style="LISREL") 
+semPaths(BSPAfit, what="est", layout="circle", title=T, style="LISREL")
